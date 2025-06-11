@@ -1,3 +1,31 @@
+# 📦 ComeThru — Next.js + TypeScript Starter Project
+
+## 🚀 Getting Started with This Next.js + TypeScript Project
+
+This guide will help you get the project up and running on your local machine — even if you're new to Git, TypeScript, or Next.js!
+
+---
+
+### ✅ 1. Install the Tools
+
+Before starting, make sure the following tools are installed:
+
+- [Git](https://git-scm.com/downloads)
+- [Node.js (includes npm)](https://nodejs.org/) – install the **LTS version**
+- [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
+- (Optional) [GitHub Desktop](https://desktop.github.com/) – easier Git GUI if you're new to terminal
+
+---
+
+### ✅ 2. Clone the Project
+
+Open your terminal (or Git Bash), and navigate to the folder where you keep your projects (e.g., `source/repos`). Then run:
+
+```bash
+git clone https://github.com/ricozama121803/ComeThru.git
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
